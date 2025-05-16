@@ -1,4 +1,4 @@
-# 🧠 Face Recognition Login System with Anti-Spoofing
+# 🧠 Face Recognition Attendance System with Anti-Spoofing
 
 This is a desktop-based Face Recognition Login System with Anti-Spoofing using **Tkinter**, **OpenCV**, and **face_recognition**.
 
